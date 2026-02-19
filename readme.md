@@ -66,7 +66,7 @@ Get current weather information for any location.
 
 **Tech Stack:** Python, Requests, Weather API
 
-📁 [View Project](./weather-api/)
+📁 [PROJECT LINK](https://github.com/SamiKhan43/Weather_Application) 🌐 [ROADMAP.SH](https://roadmap.sh/projects/weather-api-wrapper-service)
 
 ---
 
